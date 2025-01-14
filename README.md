@@ -1,33 +1,39 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Plataforma de Denúncias Sociais
 
-Breve descrição do que o seu projeto faz.
+Criar uma página web para denuncias de problemas sociais, como ruas esburacadas, lixos, iluminação irregulares.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+Francisco Nunes Cavalcante Junior CC 475090
 
 ## :bulb: Objetivo Geral
-Descrever o objetivo de geral do projeto
+Desenvolver uma plataforma web para que moradores possam reportar problemas sociais, como lixo irregular ou falta de iluminação pública, de forma anônima.
 
 ## :eyes: Público-Alvo
-Público-alvo do projeto
+Comunidades locais e órgãos responsáveis.
 
 ## :star2: Impacto Esperado
-Descreva o impacto esperado do projeto em relação ao público alvo
+Aumentar a conscientização e facilitar a resolução de problemas locais.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+Usuario não logado
+usuario logado
+Administrador
+Orgãos responsaveis
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+Cadastro de Denúncias: Formulário para envio de denúncias com imagens. (restrito a usuarios logados)
+Mapa de Problemas: Exibição dos problemas reportados na região. (todos os usuarios podem ver)
+Acompanhamento de Status: Permitir aos usuários verificarem se o problema foi resolvido. (todos os usuarios podem ver)
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+visualizar denuncias
+realizar denuncias
+acompanhar denuncias
+Status da denuncia
 
 
 ----
